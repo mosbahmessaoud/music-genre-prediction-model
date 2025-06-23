@@ -6,12 +6,12 @@ This project builds a machine learning model to predict a person's favorite **mu
 
 ## 📂 Project Structure
 
-music-genre-prediction-model/
-│
-├── music genre predection project.ipynb # Main Jupyter notebook
-├── music.csv # Dataset
-├── model.joblib # Saved model (after training)
-└── README.md # Project description
+- music-genre-prediction-model/
+- │
+- ├── music genre predection project.ipynb # Main Jupyter notebook
+- ├── music.csv # Dataset
+- ├── model.joblib # Saved model (after training)
+- └── README.md # Project description
 
 
 ---
@@ -79,12 +79,12 @@ Try other classifiers (Random Forest, KNN, etc.)
 
 Add a simple UI for user input
 
-📬 Contact
-If you have any questions or suggestions, feel free to reach out!
-📧 Email: mosbah47messaoud@gmail.com
-🔗 LinkedIn: linkedin.com/in/mosbah-messaoud-338a10301
-💻 GitHub: @mosbahmessaoud
-
-Messaoud Mosbah
+- 📬 Contact
+- If you have any questions or suggestions, feel free to reach out!
+- 📧 Email: mosbah47messaoud@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/mosbah-messaoud-338a10301
+- 💻 GitHub: @mosbahmessaoud
+-
+- Messaoud Mosbah
 
 
